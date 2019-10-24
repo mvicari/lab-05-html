@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: lightgrey;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+nav {
+  font-family: sans-serif;
+}
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  background-size: 50%;
+  backgound-color: pink;
+}
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: yellow;
+  background-size: 50%;
+}
+section {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: pink;
+  background-size: 50%;
+}
+.gnrimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
