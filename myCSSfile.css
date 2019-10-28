@@ -1,38 +1,47 @@
 body {
-  text-align: center;
-  background-color: lightgrey;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-nav {
-  font-family: sans-serif;
-}
-p {
-  text-align: center;
-  font-family: sans-serif;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: lightgrey;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 h1 {
-  text-align: center;
-  font-family: sans-serif;
-  background-size: 50%;
-  backgound-color: pink;
+    background-size: 50%;
+    backgound-color: pink;
+    text-shadow: 3px 2px red;
 }
 h2 {
-  text-align: center;
-  font-family: sans-serif;
-  background-color: yellow;
-  background-size: 50%;
+    background-color: yellow;
+    background-size: 50%;
 }
-section {
-  text-align: center;
-  font-family: sans-serif;
-  background-color: pink;
-  background-size: 50%;
+.lyrics {
+    background-color: pink;
+    background-size: 50%;
 }
-.gnrimg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.gnrlogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+footer {
+    font-size: smaller
+}
+.about {
+    color: white;
+    background-color: rgb(255, 102, 255);
+}
+div.fanmail {
+    position: fixed;
+    width: 50%;
+    bottom: 10px;
+} 
+.gnrband {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: orange;
 }
